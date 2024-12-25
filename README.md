@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
-## OUTPUT![Uploading WhatsApp Image 2024-12-25 at 13.28.23_58a38941.jpg…]()
+## OUTPUT![Uploading IMG-20241225-WA0023[1].jpg…]()
+
 
 
 
