@@ -38,7 +38,8 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
-![IMG-20241225-WA0023 1](https://github.com/user-attachments/assets/88350e38-15a8-445e-91cf-bd3cf5ce2908)
+![Uploading IMG-20241225-WA0021[1].jpg…]()
+
 
 
 
